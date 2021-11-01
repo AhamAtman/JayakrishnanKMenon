@@ -1,4 +1,4 @@
-## Jayakrishnan K Menon
+# Jayakrishnan K Menon
 
 LinkedIn: [Jayakrishnan K Menon](https://www.linkedin.com/in/jayakrishnankmenon/)
 
@@ -6,8 +6,12 @@ Experienced Software Engineer with a demonstrated history of working in the fiel
 
 PS: If you find my name to be too long, "**JK**" would just do it ! 😄
 
-### Experience
+## Experience
 
-# Continental
-## Bosch
+### Continental
+
+
+### Bosch
+
+
 ### Wipro
