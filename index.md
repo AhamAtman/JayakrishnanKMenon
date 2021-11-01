@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Jayakrishnan K Menon
 
-You can use the [editor on GitHub](https://github.com/AhamAtman/JayakrishnanKMenon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Linkedin https://www.linkedin.com/in/jayakrishnankmenon/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Experienced Software Engineer with a demonstrated history of working in the field of Automotive Embedded Systems. Skilled in C(embedded) , AUTOSAR based development. Strong engineering professional with a B.Tech focused in Electrical and Electronics Engineering from Govt. Model Engineering College(CUSAT).
 
-### Markdown
+PS: If you find my name to be too long, "JK" would just do it ! 😄
+
+### Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
