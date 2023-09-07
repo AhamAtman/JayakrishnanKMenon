@@ -11,9 +11,9 @@ Experienced Software Engineer with a demonstrated history of 7 years, working in
 ## ACADEMIC QUALIFICATION
 
 - **PGDBM(ITSM)** | 2021 | NMIMS Global Access - School for Continuing Education | Deemed | 77.37%
-- **B.Tech** | 2014 | Govt. Model Engineering College | CUSAT | 81.40%
-- **12th** | 2009 | Bhavans Vidya Mandir (Elamakkara) | CBSE | 92.20%
-- **10th** | 2007 | Bhavans Vidya Mandir (Elamakkara) | CBSE | 93.60%
+- **B.Tech**      | 2014 | Govt. Model Engineering College                       | CUSAT  | 81.40%
+- **12th**        | 2009 | Bhavans Vidya Mandir (Elamakkara)                     | CBSE | 92.20%
+- **10th**        | 2007 | Bhavans Vidya Mandir (Elamakkara)                     | CBSE | 93.60%
 
 ## SKILLS
 
